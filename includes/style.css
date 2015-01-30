@@ -1,0 +1,10 @@
+.bp-fb-profile img {
+    float: left;
+    padding-right: 12px;
+    padding-bottom: 5px;
+}
+
+.bp-fb-profile {
+    display: block;
+    
+}
