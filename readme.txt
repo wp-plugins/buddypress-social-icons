@@ -5,7 +5,6 @@ Tags: buddypress, buddypress member, buddypress Social Icons, Social Icons
 Requires at least: 3.2.1
 Tested up to: 3.4.1
 BuddyPress: 1.5.6
-Stable tag: 0.3
 License: GPLv2 or later
 
 == Description ==
@@ -73,6 +72,10 @@ No, the text box will use the title you gave your Xprofile field as described in
 More informations: http://vivacityinfotech.net/
 
 == Changelog ==
+
+== 1.0.1 =
+
+* Fixed url related issues.
 
 = 1.0.0 =
 

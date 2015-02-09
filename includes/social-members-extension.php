@@ -39,7 +39,7 @@ function show_fbcj_in_header()
 
  ?>
 
- <a class="bp-fb-profile" href="<?php echo $fbcj_username; ?>"> <img src="<?php echo $img_url; ?>"/></a>
+ <a class="bp-fb-profile" href="https://www.facebook.com/<?php echo $fbcj_username; ?>"> <img src="<?php echo $img_url; ?>"/></a>
  
  <?php
  }
@@ -65,7 +65,7 @@ function show_fbcj_in_header()
 	if($gpcj_username != "" )
 	{
 ?>
-	<a class="bp-fb-profile" href="https://google.com/<?php echo $gpcj_username; ?>" ><img src="<?php echo $img_url; ?>"/></a>
+	<a class="bp-fb-profile" href="https://plus.google.com/<?php echo $gpcj_username; ?>" ><img src="<?php echo $img_url; ?>"/></a>
 	<?
 		}
 		if($pt_img=='pt_icon1') { $img_url=plugin_dir_url( 'buddypress-social-icons').'buddypress-social-icons/img/pinterest1.png';}
@@ -76,7 +76,7 @@ function show_fbcj_in_header()
 		if($ptcj_username != "" )
 		{
 	?>
-	<a class="bp-fb-profile" href="https://google.com/<?php echo $ptcj_username; ?>" ><img src="<?php echo $img_url; ?>" /></a>
+	<a class="bp-fb-profile" href="https://in.pinterest.com/<?php echo $ptcj_username; ?>" ><img src="<?php echo $img_url; ?>" /></a>
 	<?
 	}
 	if($li_img=='li_icon1') { $img_url=plugin_dir_url( 'buddypress-social-icons').'buddypress-social-icons/img/linkedin1.png';}
@@ -87,7 +87,7 @@ function show_fbcj_in_header()
 	if($licj_username != "" )
 	{
 	?>
-	<a class="bp-fb-profile" href="https://google.com/<?php echo $licj_username; ?>" ><img src="<?php echo $img_url; ?>"/></a>
+	<a class="bp-fb-profile" href="https://in.linkedin.com/<?php echo $licj_username; ?>" ><img src="<?php echo $img_url; ?>"/></a>
 	<?
 	}
 	if($tm_img=='tm_icon1') { $img_url=plugin_dir_url( 'buddypress-social-icons').'buddypress-social-icons/img/tumblr1.png';}
@@ -98,7 +98,7 @@ function show_fbcj_in_header()
 	if($tmcj_username != "" )
 	{
 	?>
-	<a class="bp-fb-profile" href="https://google.com/<?php echo $tmcj_username; ?>"><img src="<?php echo $img_url; ?>"/></a>
+	<a class="bp-fb-profile" href="https://www.tumblr.com/<?php echo $tmcj_username; ?>"><img src="<?php echo $img_url; ?>"/></a>
 	<?
 	}
 	if($in_img=='in_icon1') { $img_url=plugin_dir_url( 'buddypress-social-icons').'buddypress-social-icons/img/instagram1.png';}
@@ -109,7 +109,7 @@ function show_fbcj_in_header()
 	if($incj_username != "" )
 	{
 	?>
-	<a class="bp-fb-profile" href="https://google.com/<?php echo $incj_username; ?>"><img src="<?php echo $img_url; ?>"/></a>
+	<a class="bp-fb-profile" href="http://instagram.com/<?php echo $incj_username; ?>"><img src="<?php echo $img_url; ?>"/></a>
 	<?
 	}
 	if($fl_img=='fl_icon1') { $img_url=plugin_dir_url( 'buddypress-social-icons').'buddypress-social-icons/img/flickr1.png';}
@@ -120,7 +120,7 @@ function show_fbcj_in_header()
 	if($flcj_username != "" )
 	{
 	?>
-	<a class="bp-fb-profile" href="https://google.com/<?php echo $flcj_username; ?>" ><img src="<?php echo $img_url; ?>"/></a>
+	<a class="bp-fb-profile" href="https://www.flickr.com/<?php echo $flcj_username; ?>" ><img src="<?php echo $img_url; ?>"/></a>
 	<?
 	}
 	if($yt_img=='yt_icon1') { $img_url=plugin_dir_url( 'buddypress-social-icons').'buddypress-social-icons/img/youtube1.png';}
@@ -131,7 +131,7 @@ function show_fbcj_in_header()
 	if($ytcj_username != "" )
 	{
 	?>
-	<a class="bp-fb-profile" href="https://google.com/<?php echo $ytcj_username; ?>" ><img src="<?php echo $img_url; ?>"/></a>
+	<a class="bp-fb-profile" href="http://www.youtube.com/<?php echo $ytcj_username; ?>" ><img src="<?php echo $img_url; ?>"/></a>
 	<?
 	}
 	if($ms_img=='ms_icon1') {  $img_url=plugin_dir_url( 'buddypress-social-icons').'buddypress-social-icons/img/myspace1.png';}
@@ -142,7 +142,7 @@ function show_fbcj_in_header()
 	if($mscj_username != "" )
 	{
 	?>
-	<a class="bp-fb-profile" href="https://google.com/<?php echo $mscj_username; ?>"><img src="<?php echo $img_url; ?>"/></a>
+	<a class="bp-fb-profile" href="https://myspace.com/<?php echo $mscj_username; ?>"><img src="<?php echo $img_url; ?>"/></a>
 	<?
 	}
 
