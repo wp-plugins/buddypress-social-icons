@@ -8,7 +8,7 @@ Plugin URI: http://wordpress.org/extend/plugins/buddypress-social-icons/
 
 Description: Let your members show their Social Link Button on their profile page .
 
-Version: 1.0.0
+Version: 1.0.1
 
 Author: http://vivacityinfotech.net/
 
