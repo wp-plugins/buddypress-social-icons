@@ -3,7 +3,7 @@ Contributors: vivacityinfotech.jaipur
 Donate link:http://bit.ly/1icl56K
 Tags: buddypress, buddypress member, buddypress Social Icons, Social Icons
 Requires at least: 3.2.1
-Tested up to: 3.4.1
+Tested up to: 4.2
 BuddyPress: 1.5.6
 Stable tag: 1.0.1
 License: GPLv2 or later
